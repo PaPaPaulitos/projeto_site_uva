@@ -1,3 +1,121 @@
+/* pack de cores 
+
+
+Cinza-escuro: #121019
+Vermelho: #FF1B5A
+Branco: #FFFFFF
+Rosa: #E60073
+Azul: #004B78
+Amarelo: #FFD000
+verde A: D2E5E1
+
+*/
+
+
 body{
     font-family: 'Roboto', sans-serif;
 }
+
+
+.logo-uva{
+    width: 14.5vh;
+    margin-left: 1.5vh;
+}
+
+
+.nav-link{
+    color: #004B78;
+}
+
+.nav-link:hover{
+    color: #4cbaff;
+}
+
+ 
+.grid-system-01{
+    align-items: center;
+    margin: 7vh;
+}
+
+.grid-system-01-imagem{
+    padding: 5px;
+    margin: 0px 10px 10px 0;
+    max-width: 186px;
+}
+
+.grid-system-01-title{
+    color: #e60073;
+    margin-top: 1vh;
+    font-size: 3vh;
+}
+
+.grid-system-01-paragraph{
+    
+}
+
+  
+.bordas {
+    border: 1vh;
+    border-color:#004B78;
+    border-style: solid;
+    margin-top: 5vh;
+    margin-right: 5vh;
+}
+
+
+.content-align {
+    display: flex;
+    align-items: flex-start;  /* Ajusta os itens para começar no topo */
+    gap: 10px;
+}
+
+.bordas img {
+    max-width: 50px;
+    display: block;
+}
+
+.texto-inferior {
+    margin-top: 10px;  /* Adiciona um espaçamento acima do texto */
+}
+
+
+.bordas_direita {
+    border-bottom: 0;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0.25vh;
+    border-color:#e5e5e5;
+    border-style: solid;
+    margin-right: 0vh;
+}
+
+
+.title-blue {
+    color: #004B78;
+}
+
+.btn-primary{
+    border: 0;
+    background-color: #e60073;
+}
+
+.btn-primary:hover{
+    border: 0;
+    background-color: #FF50A7;
+}
+
+.btn-secondary{
+    border: 0;
+    background-color: #FFD000;
+}
+
+.btn-secondary:hover{
+    border: 0;
+    background-color: #FFE77A;
+}
+
+.card{
+    background-color: #004B78;
+
+}
+
