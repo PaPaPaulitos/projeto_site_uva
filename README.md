@@ -4,6 +4,8 @@
 
 Esse é um projeto feito por alunos da UVA para recriar o seu site com o intuito de aprender as seguintes ferramentas.
 
+[![Backend](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,figma)](https://skillicons.dev)
+
 - HTML e CSS
 - JavaScript
 - Bootstrap
